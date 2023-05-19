@@ -215,7 +215,8 @@ const projects = [
     ],
     image: demon,
     source_code_link: "https://github.com/Iouie/AudioVisualizer",
-    demo_link: "https://www.jacquielawson.com/card/koala-quest/3536089",
+    demo_link:
+      "https://people.rit.edu/sxl7953/IGME330/Project/Visualizer/Visualizer.html?",
   },
   {
     name: "Koala Quest",
