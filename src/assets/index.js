@@ -7,6 +7,7 @@ import github from "./github.png";
 import demo from "./demo.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import linkedin from "./linkedin.png";
 
 import css from "./tech/css.png";
 import git from "./tech/git.png";
@@ -54,6 +55,7 @@ export {
   html,
   javascript,
   mongodb,
+  linkedin,
   nodejs,
   reactjs,
   redux,

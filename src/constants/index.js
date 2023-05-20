@@ -59,6 +59,19 @@ const services = [
   },
 ];
 
+const plugins = [
+  {
+    name: "LinkedIn",
+    icon: "",
+    link: "https://www.linkedin.com/in/stanley-louie-523136127/",
+  },
+  {
+    name: "Github",
+    icon: "",
+    link: "https://github.com/Iouie",
+  },
+];
+
 const technologies = [
   {
     name: "HTML 5",

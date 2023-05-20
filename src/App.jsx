@@ -5,6 +5,7 @@ import {
   Experience,
   Hero,
   Navbar,
+  Footer,
   Tech,
   Works,
   StarsCanvas,
@@ -26,6 +27,7 @@ function App() {
           <Contact />
         </div>
       </div>
+      <Footer />
     </BrowserRouter>
   );
 }
