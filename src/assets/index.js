@@ -30,8 +30,10 @@ import demon from "./demon.jpg";
 import genie from "./genie.png";
 import koala from "./koala.png";
 import pepewow from "./pepewow.jpg";
+import mern from "./mern.png";
 
 export {
+  mern,
   csharp,
   node,
   unity,

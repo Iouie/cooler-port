@@ -22,6 +22,7 @@ import {
   pepewow,
   threejs,
   unity,
+  mern,
 } from "../assets";
 
 export const navLinks = [
@@ -156,6 +157,32 @@ const experiences = [
 ];
 
 const projects = [
+  {
+    name: "Job Application Tracker",
+    description:
+      "Job Application Tracker is a full-stack web application that uses React's drag-and-drop and CRUD functionality to organize user job applications.",
+    tags: [
+      {
+        name: "mongodb/express",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react/node.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "react drag-and-drop",
+        color: "white-text-gradient",
+      },
+    ],
+    image: mern,
+    source_code_link: "https://github.com/Iouie/Per-Scholas-Proj3",
+    demo_link: "https://job-application-tracker-vmpa.onrender.com/",
+  },
   {
     name: "Gaming Genie",
     description:

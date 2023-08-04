@@ -36,7 +36,7 @@ const Navbar = () => {
             >
               {link.id === "resume" ? (
                 <a
-                  href="https://docs.google.com/document/d/1smVjHhu13FJpBzbGQmArt2a0E93DXn2BWsY0nvfZVFE/edit"
+                  href="https://drive.google.com/file/d/1-dxW2taIlgD8cZMpn8u8XxhwffeAapFD/view?usp=drive_link"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
