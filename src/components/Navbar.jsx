@@ -36,7 +36,7 @@ const Navbar = () => {
             >
               {link.id === "resume" ? (
                 <a
-                  href="https://drive.google.com/file/d/1-dxW2taIlgD8cZMpn8u8XxhwffeAapFD/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1Sa_IiHmLlRdMIgxVzxhxTKTo2COBHMa0/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -75,7 +75,7 @@ const Navbar = () => {
                 >
                   {link.id === "resume" ? (
                     <a
-                      href="https://drive.google.com/file/d/1-dxW2taIlgD8cZMpn8u8XxhwffeAapFD/view?usp=drive_link"
+                      href="https://drive.google.com/file/d/1Sa_IiHmLlRdMIgxVzxhxTKTo2COBHMa0/view?usp=sharing"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
